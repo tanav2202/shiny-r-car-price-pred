@@ -2,7 +2,7 @@
 
 An interactive dashboard for exploring a dataset of 300 global cars, built with **Shiny for R**. Filter by brand, fuel type, body type, transmission, and price range to see how these attributes relate to car pricing and performance.
 
-> **Live app:** (link later)
+> **Live app:** https://019cee05-e185-84e3-382c-2356fd7faa8d.share.connect.posit.cloud/
 
 ------------------------------------------------------------------------
 
